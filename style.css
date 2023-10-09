@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+h1{
+text-align:center ;
+
+}
+img{
+    width: 450px;
+}
+
+p{
+margin-left: 15%;
+
+
+
+    font-family: Arial, Helvetica, sans-serif;
+background-position: 
+    }
+
+
+h2{
+    text-align: justify;
+}
+
+body{
+    /* background-image: url(https://img.freepik.com/fotos-gratis/paisagem-de-nevoeiro-matinal-e-montanhas-com-baloes-de-ar-quente-ao-nascer-do-sol_335224-794.jpg);
+
+    /* background-repeat: repeat-x;*/
+    /* background-repeat: repeat-y; */
+    /* background-repeat: no-repeat; */
+    /* background-position: 40% 50%; */
+    /* background-position: center top;
+    background-size: cover;
+   background-attachment: fixed; 
+}  */
+
+background-image: linear-gradient(45deg, red, blue, rgb(206, 195, 195), green); 
+
+/* background-image: radial-gradient(circle, rgb(238, 221, 221), rgb(89, 89, 138), green); */
+
+margin: left: 15%;
+}
